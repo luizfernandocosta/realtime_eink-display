@@ -5,7 +5,7 @@
 #include <Wire.h>
 #include <SPI.h>
 
-//Icluding Roboto fonts
+//Including Roboto fonts
 #include "robotothin64.h"
 #include "robotothin48.h"
 #include "robotolight32.h"
